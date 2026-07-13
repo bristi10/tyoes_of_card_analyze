@@ -1,4 +1,4 @@
-# tyoes_of_card_analyze
+# types_of_card_analyze
 This project analyzes and compares the usage, features, and transaction patterns of credit and debit cards across payment networks like Visa.
 
 ## Tools used
